@@ -11,11 +11,11 @@ This exercise is about client communication and planning. Learning to use new de
 - [x] Prepare a UML diagram (for both navigations and actions)
   * [Page Diagram](https://bit.ly/2VVk1OV)
 - [ ] Prepare a wireframe of the website with for example balsamiq
-- [x] Mind Map
-  * [OlaFresco Mind Map](https://atlas.mindmup.com/2021/08/82078160000111ecae0da1a0b829e4f9/olafresco_landing_page/index.html)
+- [x] Mind Map (it is published online just for 6 months)
+  * [OlaFresco Mind Map](https://atlas.mindmup.com/2021/08/e5524a00000311ecb29ac1d36e5f0de8/olafresco_landing_page/index.html)
 - [ ] Prepare a mockup of the website using a design tool such as Figma
 - [x] Communicate the endresult with the client
-- [ ] Add a quality readme
+- [x] Add a quality readme
 
 ## Client needs (user stories)
 
