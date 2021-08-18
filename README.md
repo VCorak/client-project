@@ -9,8 +9,9 @@ This exercise is about client communication and planning. Learning to use new de
 - [x] Scope the project
 - [x] Define User functionalities (login, logout, delete, ...
 - [x] Prepare a UML diagram (for both navigations and actions)
-  * [Page Diagram](https://bit.ly/2VVk1OV)
-- [ ] Prepare a wireframe of the website with for example balsamiq
+  * [OlaFresco UML Diagram](https://bit.ly/2VVk1OV)
+- [x] Prepare a wireframe of the website with for example balsamiq
+  * [OlaFresco Wireframe](https://balsamiq.cloud/sbzozvn/p4p25ei)
 - [x] Mind Map (it is published online just for 6 months)
   * [OlaFresco Mind Map](https://atlas.mindmup.com/2021/08/e5524a00000311ecb29ac1d36e5f0de8/olafresco_landing_page/index.html)
 - [ ] Prepare a mockup of the website using a design tool such as Figma
