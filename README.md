@@ -14,7 +14,9 @@ This exercise is about client communication and planning. Learning to use new de
   * [OlaFresco Wireframe](https://balsamiq.cloud/sbzozvn/p4p25ei)
 - [x] Mind Map (it is published online just for 6 months)
   * [OlaFresco Mind Map](https://atlas.mindmup.com/2021/08/e5524a00000311ecb29ac1d36e5f0de8/olafresco_landing_page/index.html)
-- [ ] Prepare a mockup of the website using a design tool such as Figma
+- [x] Prepare a mockup of the website using a design tool such as Figma
+  * this is mockup is prepared in the form of mobile app because of client's wishes to focus on mobile first 
+  * [OlaFresco mockup website](https://www.figma.com/file/zBXleZ1PFx5ZxIIIYX0ykp/Delivery-App_UI-Kit-Copy?node-id=33%3A444)
 - [x] Communicate the endresult with the client
 - [x] Add a quality readme
 
@@ -29,11 +31,11 @@ OlaFresco needs a website for meal orders.
 * A member section to choose meals
 * A member section to keep track of their orders
 * An admin section to manage meal deliveries
-* Member profile allow to specify user allergies that automatically filter meals
+* Member profile allows specifying user allergies that automatically filter meals
 
 This website will look a lot like [hellofresh](https://www.hellofresh.be/?locale=nl-BE)
 
 ## Delivering exercise
 
-A main readme which documents the learning objective requirements hosted on a github repository.
+A main readme which documents the learning objective requirements hosted on a GitHub repository.
 
