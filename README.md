@@ -1,4 +1,4 @@
-# Client project
+# Client project OlaFresco 🥗🥩🍜🚀
 
 This exercise is about client communication and planning. Learning to use new design tools, plan my work to save development time (though there won't be any coding on this project), and communicate user stories through UML diagrams.
 
@@ -38,4 +38,18 @@ This website will look a lot like [hellofresh](https://www.hellofresh.be/?locale
 ## Delivering exercise
 
 A main readme which documents the learning objective requirements hosted on a GitHub repository.
+
+## Observations and thoughts about project
+
+This is my first time on hand writing and thinking in a sense of mind mapping and wire framing a project. Mand mapping was especially difficult 
+because, yes, I had to really calm my mind and just stick to the logical path of the project. It is very useful to see a project in that kind of way before you jump
+to coding, I really had clearer vision how would it suppose to look and going to use this more. After mind mapping wireframing comes easy because I can see
+what actual components should be, how the lineup looks like, do I like it this way. I lost a quite of time on it but just because I changed it few times, 
+complicating things...but yeah, that's me...(maybe this personality trait shouldn't be public 🤫) Anyway, quality time thinking besides the code and have some sneak peek
+how project planning should actually go and how it is important part of developing. 
+
+# Thank you for long read!
+
+<img src="https://media.giphy.com/media/RKAkqx9i2ZxcPQpj2M/giphy.gif?cid=ecf05e47i26p8jr7wtkcr4isn5gq56r1v993y8wn7mluzgpe&rid=giphy.gif&ct=g">
+
 
