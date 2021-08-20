@@ -17,6 +17,7 @@ This exercise is about client communication and planning. Learning to use new de
 - [x] Prepare a mockup of the website using a design tool such as Figma
   * this is mockup is prepared in the form of mobile app because of client's wishes to focus on mobile first 
   * [OlaFresco mockup website](https://www.figma.com/file/zBXleZ1PFx5ZxIIIYX0ykp/Delivery-App_UI-Kit-Copy?node-id=33%3A444)
+   ![Android Mock 1](images/mockup3.png)
 - [x] Communicate the endresult with the client
 - [x] Add a quality readme
 
